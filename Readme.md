@@ -38,11 +38,5 @@ To activate the proxy:
 - **CSS**: For styling and layout.
 - **JavaScript**: For fetching data and dynamically updating the UI.
 
----
 
-## Getting Started
-### Clone the Repository
-```bash
-git clone https://github.com/yourusername/leetmatrix.git
-cd leetmatrix
 

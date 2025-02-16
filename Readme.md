@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-hi
-=======
+
 # LeetMatrix
 
 LeetMatrix is a simple web application built with **HTML**, **CSS**, and **JavaScript** that helps users track their progress on LeetCode. The app takes input from the user and displays the total number of problems solved categorized into **Easy**, **Medium**, and **Hard** questions.
